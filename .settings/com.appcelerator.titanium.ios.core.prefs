@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=Hereshko_John_Project2
+iosLaunchConfigurationAttributes/appid=com.vfw.project2
+iosLaunchConfigurationAttributes/certificate=John Hereshko (L5T38CTTP7)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=7.1
+iosLaunchConfigurationAttributes/uuid=55181855-F74D-4109-8FF5-6068EC8B229B
+provisioning_profiles/development/55181855-F74D-4109-8FF5-6068EC8B229B/appid=*
+provisioning_profiles/development/55181855-F74D-4109-8FF5-6068EC8B229B/filepath=/Users/Jeshko/Downloads/iOS_Team_Provisioning_Profile_.mobileprovision
+provisioning_profiles/development/55181855-F74D-4109-8FF5-6068EC8B229B/name=iOS Team Provisioning Profile\: *
+provisioning_profiles/development/55181855-F74D-4109-8FF5-6068EC8B229B/uuid=55181855-F74D-4109-8FF5-6068EC8B229B
